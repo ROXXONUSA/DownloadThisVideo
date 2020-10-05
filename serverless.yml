@@ -166,4 +166,4 @@ custom:
         topic: ${self:service}-dev-alerts-alarm
         notifications:
         - protocol: email
-          endpoint: shalvah.adebayo+awsalerts@gmail.com
+          endpoint: ryan.norris@roxxonglobal.com
